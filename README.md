@@ -1,5 +1,5 @@
 # Lezco.github.io
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -328,7 +328,7 @@
             class="search"
             id="search"
             type="text"
-            placeholder="🔎 Поиск достопримечательности или страны..."
+            placeholder="Поиск достопримечательности или страны..."
         >
 
     </div>
@@ -363,7 +363,7 @@
 
             <p id="modalDescription"></p>
 
-            <h3>💡 Интересный факт</h3>
+            <h3>Интересный факт</h3>
 
             <p id="modalFact"></p>
 
@@ -377,7 +377,7 @@
 <footer>
 
     <p>
-        🌎 Изучай мир — одно место за другим
+         Изучай мир — одно место за другим
     </p>
 
 </footer>
@@ -565,7 +565,7 @@ function showCards(list) {
                 text-align:center;
                 font-size:20px;
             ">
-                😔 Ничего не найдено
+                 Ничего не найдено
             </div>
         `;
 
